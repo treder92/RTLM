@@ -3,7 +3,7 @@ Real Time Learning Model
 
 
 # RTLM Manifesto: Machines That Learn by Living  
-**Vision**: AI that evolves *with* the world, not against it.  
+**Vision**: AI that evolves *with* the world.  
 
 ## Core Idea  
 Traditional AI = Frozen library.  

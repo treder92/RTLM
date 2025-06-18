@@ -1,0 +1,30 @@
+REAL-TIME LEARNING MODELS (RTLM)  
+A New Paradigm for Adaptive Machine Intelligence  
+
+CORE PRINCIPLES  
+1. LEARNING = LIVING  
+   - Learn continuously or don't learn at all.  
+   - Replace batch updates with real-time data streams.  
+
+2. FORGETTING = INTELLIGENCE  
+   - Discard trivia to retain wisdom.  
+   - "If it doesn't shape tomorrow, drop it today."  
+
+3. TIME = ARCHITECT  
+   - Embed clocks in cognition.  
+   - Let context evolve across seconds, days, years.  
+
+4. VOIDS = CATALYSTS  
+   - Where data ends, innovation begins.  
+   - Train models to create, not imitate, in gaps.  
+
+5. ETHICS = OXYGEN  
+   - Breathe alignment in real-time or suffocate.  
+   - Self-audit or self-destruct.  
+
+CALL TO ACTION  
+- Engineers: Build forgetting before memory.  
+- Researchers: Measure adaptation, not accuracy.  
+- All: Plant RTLMs in the wild. Prune. Water. Repeat.  
+
+© Rune Andreasen, 2025 | CC BY 4.0  
